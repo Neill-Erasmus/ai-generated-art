@@ -40,7 +40,7 @@ criterion = nn.BCELoss()
 optimizer_discriminator = optim.Adam(params=discriminator_neural_net.parameters(), lr=0.0002, betas=(0.5, 0.999))
 optimizer_generator = optim.Adam(params=generator_neural_net.parameters(), lr=0.0002, betas=(0.5, 0.999))
 
-for epoch in range(1, 101):
+for epoch in range(1, 76):
     for i, data in enumerate(portraits_dataloader, 0):
         discriminator_neural_net.zero_grad()
 
