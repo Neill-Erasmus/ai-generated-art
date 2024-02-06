@@ -1,5 +1,7 @@
 # AI Generated Art (Generative Adversarial Networks)
 
+![fake_samples_epoch_075](https://github.com/Neill-Erasmus/ai-generated-art/assets/141222943/9ae4e0e0-aa48-4496-930a-41663c6e5fd5)
+
 A generative adversarial network for generating fake portraits.
 
 ##  Generative Adversarial Networks (GANs)
